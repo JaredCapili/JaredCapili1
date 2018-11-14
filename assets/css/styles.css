@@ -1,0 +1,304 @@
+body {
+  height:100%;
+  margin:0;
+  font-family:Arial, Helvetica, san-serif;
+}
+
+#References {
+  text-align:center;
+  padding:200px;
+  background:url(../../assets/img/Ocean.jpg) no-repeat;
+  background-size:cover;
+  /*background-position:center top;*/
+  background-attachment:fixed;
+}
+
+#PortfolioBg {
+  text-align:center;
+  padding:200px;
+  background:url(../../assets/img/Suburb.jpg) no-repeat;
+  background-size:cover;
+  /*background-position:center top;*/
+  background-attachment:fixed;
+}
+
+#Terry {
+  text-align:center;
+  padding:200px;
+  background:url(../../assets/img/Terry.jpeg) no-repeat;
+  background-size:cover;
+  /*background-position:center top;*/
+  background-attachment:fixed;
+}
+
+#Top {
+  text-align:center;
+  padding:200px;
+  background:url(../../assets/img/Ocean.jpg) no-repeat;
+  background-size:cover;
+  /*background-position:center top;*/
+  background-attachment:fixed;
+}
+
+#References .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.80);
+  max-width:800px;
+  min-width:300px;
+  margin:0 auto;
+}
+
+#Terry .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.90);
+  max-width:800px;
+  min-width:300px;
+  margin:0 auto;
+}
+
+#Portfolio.jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.9);
+  max-width:800px;
+  min-width:300px;
+  margin:0 auto;
+}
+
+#Top .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.65);
+  max-width:800px;
+  min-width:300px;
+  margin:0 auto;
+}
+
+.Columnbckground {
+  background-color:#ffffff;
+}
+
+.site-section {
+  text-align:center;
+  padding:0px;
+  /*background-color:rgb(219,241,242);*/
+}
+
+.site-section p {
+  text-align:left;
+}
+
+.site-section h1 {
+  font-weight:normal;
+  margin-bottom:30px;
+}
+
+#Welcome p {
+  max-width:800px;
+  font-size:20px;
+}
+
+.col-md-4.item {
+  font-size:40px;
+}
+
+.col-md-4.item h2 {
+  font-weight:bold;
+}
+
+.navbar-collapse {
+  -ms-flex-preferred-size:100%;
+  flex-basis:100%;
+  -webkit-box-flex:1;
+  -ms-flex-positive:1;
+  flex-grow:1;
+  -webkit-box-align:center;
+  -ms-flex-align:center;
+  align-items:center;
+  background-color:rgb(233,236,239);
+}
+
+@media (min-width: 768px) {
+  .navbar-expand-md > .container, .navbar-expand-md > .container-fluid {
+    -ms-flex-wrap:nowrap;
+    flex-wrap:nowrap;
+    background-color:#e9ecef;
+  }
+}
+
+.footer-basic {
+  padding:40px 0;
+  background-color:#ffffff;
+  color:#4b4c4d;
+}
+
+#Statement-Cards {
+  max-width:800px;
+  padding-bottom:40px;
+}
+
+h1, .h1 {
+  text-align:center;
+  padding-bottom:40px;
+}
+
+#Iteration .img {
+  width:50px;
+}
+
+#Iteration {
+  padding:40px;
+}
+
+.container.Paragraphs {
+  padding:40px;
+}
+
+#Interfaces {
+  background-color:rgb(213,211,211);
+}
+
+.w-100.d-block {
+  max-height:400px;
+  max-width:1000px;
+  margin:0 auto;
+}
+
+#Interfaces {
+  padding:40px;
+}
+
+p {
+  padding:40px;
+}
+
+#UserTest .UserFeedback {
+  margin:0 auto;
+  align-content:center;
+}
+
+#Iteration {
+  background-color:#d5d3d3;
+}
+
+#Statement-Cards {
+  max-width:400px;
+}
+
+#Synthesis {
+  padding:40px;
+}
+
+#carousel-4 {
+  max-width:300px;
+  margin:0 auto;
+}
+
+#Welcome {
+  padding:40px;
+}
+
+#Info1 {
+  padding:20px;
+  background-color:rgba(0,0,0,0.1);
+}
+
+#Info2 {
+  padding:20px;
+}
+
+#Info3 {
+  padding:20px;
+  background-color:rgba(0,0,0,0.1);
+}
+
+#Info4 {
+  padding:20px;
+}
+
+.HomeSec {
+  width:70%;
+  box-shadow:0px 1px 5px 5px rgba(0,0,0,0.2);
+}
+
+#HomeSec {
+  text-align:center;
+}
+
+#Brainstorm {
+  max-width:400px;
+  text-align:center;
+}
+
+.col-6.ImgColumn {
+  text-align:center;
+}
+
+#HighFi {
+  max-width:400px;
+}
+
+.ParaImg {
+  text-align:center;
+  /*max-width:400px;*/
+}
+
+.Filler {
+  max-width:400px;
+}
+
+.col.Feature {
+  text-align:center;
+}
+
+.FeatureImg {
+  max-width:100px;
+}
+
+#ReflectH {
+  color:white;
+}
+
+#ReflectP {
+  color:white;
+}
+
+#ReflectL {
+  color:white;
+}
+
+#Reflected {
+  padding-top:10px;
+  background-color:rgba(0,0,0,0.85);
+}
+
+#BriefP {
+  /*color:white;*/
+}
+
+#BriefH {
+  /*color:white;*/
+}
+
+#Brief {
+  /*background-color:rgba(0,0,0,0.85);*/
+}
+
+.list-inline {
+  text-align:center;
+}
+
+#OurDesP {
+  color:white;
+}
+
+#OurDesH {
+  color:white;
+}
+
+#OurDes {
+  background-color:rgba(0,0,0,0.85);
+}
+
